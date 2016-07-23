@@ -1,4 +1,4 @@
-window.onload = loadData()
+window.onload = loadData();
 var ref = new Firebase('https://dr-iqbal.firebaseio.com');
 
 function loadData() {	
