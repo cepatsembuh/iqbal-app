@@ -14,5 +14,5 @@ function loadData() {
 		label = document.getElementById('jumlah');
 
 		label.innerHTML = data;
-	}); 
+	});
 }
